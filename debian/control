@@ -10,12 +10,14 @@ Standards-Version: 3.8.4
 Homepage: http://pypi.python.org/pypi/enum/
 #Vcs-Git: git://git.debian.org/collab-maint/python-enum.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/python-enum.git;a=summary
+XS-Python-Version: 2.5, 2.6, 2.7, 3.0
 
 Package: python-enum
 Architecture: all
 Depends:
  ${misc:Depends},
  ${python:Depends}
+XB-Python-Version: 2.5, 2.6, 2.7, 3.0
 Description: A package providing enumerated types for Python
  This package provides a module for robust enumerations in Python.
 
