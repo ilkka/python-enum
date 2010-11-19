@@ -1,0 +1,21 @@
+Source: python-enum
+Section: python
+Priority: optional
+Maintainer: Ilkka Laukkanen <ilkka.s.laukkanen@gmail.com>
+Build-Depends:
+ debhelper (>= 7.0.50~),
+ python-support,
+ python-setuptools
+Standards-Version: 3.8.4
+Homepage: http://pypi.python.org/pypi/enum/
+#Vcs-Git: git://git.debian.org/collab-maint/python-enum.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/python-enum.git;a=summary
+
+Package: python-enum
+Architecture: all
+Depends:
+ ${misc:Depends},
+ ${python:Depends}
+Description: A package providing enumerated types for Python
+ This package provides a module for robust enumerations in Python.
+
