@@ -2,6 +2,7 @@ LICENSE.GPL
 LICENSE.PSF
 MANIFEST.in
 enum.py
+setup.cfg
 setup.py
 enum.egg-info/PKG-INFO
 enum.egg-info/SOURCES.txt
