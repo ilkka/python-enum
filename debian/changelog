@@ -1,0 +1,5 @@
+python-enum (0.4.4-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Ilkka Laukkanen <ilkka.s.laukkanen@gmail.com>  Fri, 19 Nov 2010 17:50:53 +0200
