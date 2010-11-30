@@ -1,4 +1,4 @@
-python-enum (0.4.4-0ubuntu2) UNRELEASED; urgency=low
+python-enum (0.4.4-0ubuntu2) maverick; urgency=low
 
   * Add Vcs-Git and Vcs-Browser info to debian/control
 
