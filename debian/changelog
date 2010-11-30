@@ -1,3 +1,9 @@
+python-enum (0.4.4-0ubuntu2) UNRELEASED; urgency=low
+
+  * Add Vcs-Git and Vcs-Browser info to debian/control
+
+ -- Ilkka Laukkanen <ilkka.s.laukkanen@gmail.com>  Tue, 30 Nov 2010 13:48:16 +0200
+
 python-enum (0.4.4-0ubuntu1) maverick; urgency=low
 
   * Initial release.
